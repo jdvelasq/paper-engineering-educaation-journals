@@ -1,2 +1,2 @@
-# paper-engineering-educaation-journals
+# paper-engineering-education-journals
 Engineering education journals analysis
